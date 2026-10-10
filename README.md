@@ -21,3 +21,6 @@
 | [SKILL.md](SKILL.md) | 可复用技能：「AI 化 + 先探图 + 健康优先」的个人成长方法 |
 | [action-items.md](action-items.md) | 可直接执行的行动清单（复选框） |
 | [plan.md](plan.md) | 分阶段计划：第 1 周 / 第 2–4 周 / 第 2–3 个月，含里程碑与度量方式 |
+| [huangmao.md](huangmao.md) | 黄毛理论：含义、来源演变、核心主张与内在张力 |
+| [baoji.md](baoji.md) | 薄肌理论：训练/饮食/睡眠/体脂原则，附证据核对与批评 |
+| [sun-wealth-freedom.md](sun-wealth-freedom.md) | 孙宇晨的财富自由文章（2016 微博长文、《财富自由革命之路》）摘要与评价 |
